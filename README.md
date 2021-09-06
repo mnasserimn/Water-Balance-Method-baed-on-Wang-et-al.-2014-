@@ -1,1 +1,1 @@
-# Water-Balance-Method-baed-on-Wang-et-al.-2014-
+This respository is belonge to the submitted paper to Iran-Water Resources Journal.
